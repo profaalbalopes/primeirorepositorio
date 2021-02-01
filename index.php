@@ -8,6 +8,6 @@
     <?php
       echo "Esse é o meu primeiro código em repositório";
     ?>
-    </h1:>
+    </h1>
   </body>
 </html>
